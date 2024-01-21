@@ -22,9 +22,9 @@ Install Dependencies:
     pip install pygame
 Run the Game:
      python final.py
-## Game
-
-<video src="Asteroids%202024-01-21%2019-47-30-1.mp4" controls title="Title"></video>
+## Screen shots
+  ![Alt text](image.png)
+  ![Alt text](image-1.png)
 
 
 
